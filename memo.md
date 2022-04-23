@@ -1,0 +1,2 @@
+- mainにプッシュ→npm run deploy
+
